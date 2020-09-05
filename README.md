@@ -8,8 +8,6 @@
 - 🥅 2020 Goals: Build more software projects and land a job to showcase my talent 
 - ⚡ Fun fact: I love to run and play soccer
 
-### Spotify Playing 🎧
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 ### Connect with me:
 
