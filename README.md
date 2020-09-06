@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything about software development  🤣
 - 🥅 2020 Goals: Build more software projects and land a job to showcase my talent 
 - ⚡ Fun fact: I love to run and play soccer   
-
+   
 
 ### Connect with me:
 
